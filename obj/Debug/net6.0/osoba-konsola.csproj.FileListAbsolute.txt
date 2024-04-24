@@ -1,0 +1,14 @@
+C:\Users\barmc\source\repos\osoba-konsola\bin\Debug\net6.0\osoba-konsola.exe
+C:\Users\barmc\source\repos\osoba-konsola\bin\Debug\net6.0\osoba-konsola.deps.json
+C:\Users\barmc\source\repos\osoba-konsola\bin\Debug\net6.0\osoba-konsola.runtimeconfig.json
+C:\Users\barmc\source\repos\osoba-konsola\bin\Debug\net6.0\osoba-konsola.dll
+C:\Users\barmc\source\repos\osoba-konsola\bin\Debug\net6.0\osoba-konsola.pdb
+C:\Users\barmc\source\repos\osoba-konsola\obj\Debug\net6.0\osoba-konsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barmc\source\repos\osoba-konsola\obj\Debug\net6.0\osoba-konsola.AssemblyInfoInputs.cache
+C:\Users\barmc\source\repos\osoba-konsola\obj\Debug\net6.0\osoba-konsola.AssemblyInfo.cs
+C:\Users\barmc\source\repos\osoba-konsola\obj\Debug\net6.0\osoba-konsola.csproj.CoreCompileInputs.cache
+C:\Users\barmc\source\repos\osoba-konsola\obj\Debug\net6.0\osoba-konsola.dll
+C:\Users\barmc\source\repos\osoba-konsola\obj\Debug\net6.0\refint\osoba-konsola.dll
+C:\Users\barmc\source\repos\osoba-konsola\obj\Debug\net6.0\osoba-konsola.pdb
+C:\Users\barmc\source\repos\osoba-konsola\obj\Debug\net6.0\osoba-konsola.genruntimeconfig.cache
+C:\Users\barmc\source\repos\osoba-konsola\obj\Debug\net6.0\ref\osoba-konsola.dll

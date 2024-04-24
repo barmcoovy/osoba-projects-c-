@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "osoba-konsola/1.0.0": {
+        "runtime": {
+          "osoba-konsola.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "osoba-konsola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
